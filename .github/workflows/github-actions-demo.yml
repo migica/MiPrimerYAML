@@ -1,4 +1,4 @@
-  name: MiPrimera Accion  
+  name: GitHub Actions Demo 
   on:
   push:
     branches: [ main ]
